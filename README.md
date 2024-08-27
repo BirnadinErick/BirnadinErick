@@ -1,7 +1,6 @@
 # I, Birnadin Erick, am...
-👷‍♂️ currently working on a free-lanced project MHCC with rust
 
-👨‍🏫 currently learning rust 
+Currently, I am enrolled at a B.Eng. degree on Electrical Engineering major.
 
 💬 Ask me about anything on computer science
 
